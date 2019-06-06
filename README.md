@@ -3,7 +3,7 @@
 Simple discordjs bot which lets you easily set a custom game status.
 
 # Changelog:
-05/06/2019 First release
+05/06/2019 First release<br>
 06/06/2019 Added more types of the game status
 
 # How to use:
